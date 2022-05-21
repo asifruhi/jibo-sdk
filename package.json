@@ -39,9 +39,9 @@
 	"license": "SEE LICENSE IN LICENSE.txt",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jiborobot/jibo-sdk"
+		"url": "https://github.com/asifruhi/jibo-sdk"
 	},
 	"bugs": {
-		"url": "mailto://sdkearlyaccess@jibo.com"
+		"url": "mailto://asif_ruhi@yahoo.com"
 	}
 }
